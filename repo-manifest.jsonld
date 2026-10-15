@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/simplespawner/commit/86bd528fe1abed4592f296331fad98298f8398b4",
       "git:hexsha": "86bd528fe1abed4592f296331fad98298f8398b4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
