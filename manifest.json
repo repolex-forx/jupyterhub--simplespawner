@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyterhub",
+  "repo": "simplespawner",
+  "versions": [
+    {
+      "commit": "86bd528fe1abed4592f296331fad98298f8398b4",
+      "parsed_at": "2026-10-15T10:10:08.379887+00:00",
+      "filetree": "filetree/86bd528fe1abed4592f296331fad98298f8398b4.nq.gz",
+      "blobs": [
+        "blob/1dbc687de014ee027b4e6c0d7f2a37ee7636137e.nq.gz",
+        "blob/765bbb4850b0325a2cf9def22ff313e34f000224.nq.gz",
+        "blob/8c64f0b417247f8824dd6213c89eb8d79bd78140.nq.gz",
+        "blob/d43e97f47cad9fb5bc897ae5807f261ca8e91624.nq.gz",
+        "blob/2c2fa751027e249a8981bccb11358c08ba1e683e.nq.gz",
+        "blob/0a0669ea8b1dcde5e5210b7dcec0f933585c031e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
