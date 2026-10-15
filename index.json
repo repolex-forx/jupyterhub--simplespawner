@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "simplespawner",
+  "versions": [
+    {
+      "commit": "86bd528fe1abed4592f296331fad98298f8398b4",
+      "tag": "",
+      "parsed_at": "2026-10-15T10:11:39.831108+00:00"
+    }
+  ]
+}
